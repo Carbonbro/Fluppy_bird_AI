@@ -1,8 +1,8 @@
 # Fluppy_bird_AI
 this is a AI of Fluppy bird
 # Before coding
-you need to install pyautogui, the command is
-# pip install pyautogui opencv-python mss numpy
+you need to install requirements, the command is
+## pip3 install -r requirements.txt
 # the web of fluppy bird is
 https://flappybird.io/index.html
 
